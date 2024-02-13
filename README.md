@@ -1,4 +1,6 @@
 <!DOCTYPE html> <html>
+
+<!DOCTYPE html> <html>
 <head>
 <title>Shopping</title
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font- awesome/5.15.4/css/all.min.css">
@@ -21,6 +23,4 @@
 <li class="nav-item">
 <a class="nav-link" href="#">Categories</a>
 </li>
-<li class="nav-item">
-<a class="nav-link" href="#">Review</a> </li>
 <li class="nav-item">
