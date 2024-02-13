@@ -24,25 +24,4 @@
 <a class="nav-link" href="#">Categories</a>
 </li>
 <li class="nav-item">
-box{
-padding: 2rem 3rem;
-text-align: center;
-box-shadow:#29f700 ; background-color:#fff; display: inline-block; padding:3rem;;
-} .box:hover{
-color:#29f700; }
-.box-container{ padding: 2rem 3rem; text-align: center; box-shadow:#29f700 ;
-background-color:#fff; display: inline-block; padding:5rem;
-} .review.review-slider.box{
-padding: 1rem;
-background: #fff;
-border-radius: .5rem;
-text-align: center;
-padding: 3rem 2rem; outline-offset: -1rem;
-outline: var(--outline); box-shadow: var(--box-shadow); transition: .2s linear;
-} .review.review-slider.box:hover{
-outline: (--outline-hover);
-
-outline-offset: 0rem; }
-.review.review-slider.box.stars{ color: #29f700;
-font-size: 1.7rem;
-}
+ 
